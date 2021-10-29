@@ -1,0 +1,86 @@
+h4 
+{
+    text-align: center;
+    font-family: 'Lexend Tera', sans-serif;
+}
+
+span 
+{
+    color: red;
+    font-size: 16px;
+}
+
+h4 img 
+{
+    width: 150px;
+}
+
+.btn-primary 
+{
+    font-size: 20px;
+}
+
+ol 
+{
+    padding: 0px;
+}
+
+.test_image_and_result 
+{
+    background: #949494;
+	padding: 30px;
+	border-radius: 20px;
+	margin-top: 50px;
+	box-shadow: 5px 5px 18px grey;
+}
+
+li img 
+{
+    border-radius: 20px;
+}
+
+ol h5 
+{
+    background: white;
+    padding: 13px;
+    border-radius: 25px;
+}
+
+b 
+{
+    color: purple;
+}
+
+.mini_result 
+{
+    text-align: center;
+	color: white;
+}
+
+.copy_right_footer
+  {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+  }
+
+i
+{
+    color: red;
+    font-weight: bold;
+}
+
+.mini_result3{
+  color:grey;
+  background-color: pink;
+  border: 2px solid grey;
+  border-radius: 20px;
+  margin-bottom: 80px;
+  margin-top: 20px;
+  width:100%;
+  text-align: left;
+}
